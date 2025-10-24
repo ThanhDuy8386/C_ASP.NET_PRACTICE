@@ -14,7 +14,8 @@ namespace Ecommerce.Controllers
             _userService = userService;
         }
 
-        [HttpGet("GetAllUser"), Authorize(Roles = "Admin")]
+        //[HttpGet("GetAllUser"), Authorize(Roles = "Admin")]
+        [HttpGet("GetAllUser")]
         public IActionResult Get()
         {
             var users = _userService.GetAll();    

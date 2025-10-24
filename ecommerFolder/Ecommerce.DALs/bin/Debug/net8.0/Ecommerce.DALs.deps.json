@@ -1225,7 +1225,10 @@
           "Swashbuckle.AspNetCore.Filters": "8.0.2"
         },
         "runtime": {
-          "Ecommerce.Models.dll": {}
+          "Ecommerce.Models.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

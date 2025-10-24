@@ -1636,7 +1636,10 @@
           "Swashbuckle.AspNetCore.Filters": "8.0.2"
         },
         "runtime": {
-          "Ecommerce.DALs.dll": {}
+          "Ecommerce.DALs.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Ecommerce.Funtions/1.0.0": {
@@ -1655,7 +1658,10 @@
           "Swashbuckle.AspNetCore.Filters": "8.0.2"
         },
         "runtime": {
-          "Ecommerce.Funtions.dll": {}
+          "Ecommerce.Funtions.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Ecommerce.Models/1.0.0": {
@@ -1670,7 +1676,10 @@
           "Swashbuckle.AspNetCore.Filters": "8.0.2"
         },
         "runtime": {
-          "Ecommerce.Models.dll": {}
+          "Ecommerce.Models.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

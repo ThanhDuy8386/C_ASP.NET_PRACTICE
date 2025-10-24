@@ -14,7 +14,7 @@ using System.Security.Claims;
 namespace Ecommerce.Controllers
 {
     [Route("[Controller]")]
-    [Authorize(Roles = "Guest")]
+    //[Authorize(Roles = "Guest")]
     public class OrderController : ControllerBase
     {
         private readonly IOrderService _orderService;

@@ -468,13 +468,7 @@ C:\Users\ADMIN\Documents\C#_DotNet_Practice\C_ASP.NET_PRACTICE\ecommerFolder\Eco
 C:\Users\ADMIN\Documents\C#_DotNet_Practice\C_ASP.NET_PRACTICE\ecommerFolder\Ecommerce\obj\Debug\net8.0\Ecommerce.sourcelink.json
 C:\Users\ADMIN\Documents\C#_DotNet_Practice\C_ASP.NET_PRACTICE\ecommerFolder\Ecommerce\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\ADMIN\Documents\C#_DotNet_Practice\C_ASP.NET_PRACTICE\ecommerFolder\Ecommerce\obj\Debug\net8.0\staticwebassets.development.json
-C:\Users\ADMIN\Documents\C#_DotNet_Practice\C_ASP.NET_PRACTICE\ecommerFolder\Ecommerce\obj\Debug\net8.0\staticwebassets\msbuild.Ecommerce.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\ADMIN\Documents\C#_DotNet_Practice\C_ASP.NET_PRACTICE\ecommerFolder\Ecommerce\obj\Debug\net8.0\staticwebassets\msbuild.build.Ecommerce.props
-C:\Users\ADMIN\Documents\C#_DotNet_Practice\C_ASP.NET_PRACTICE\ecommerFolder\Ecommerce\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Ecommerce.props
-C:\Users\ADMIN\Documents\C#_DotNet_Practice\C_ASP.NET_PRACTICE\ecommerFolder\Ecommerce\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Ecommerce.props
-C:\Users\ADMIN\Documents\C#_DotNet_Practice\C_ASP.NET_PRACTICE\ecommerFolder\Ecommerce\obj\Debug\net8.0\staticwebassets.pack.json
 C:\Users\ADMIN\Documents\C#_DotNet_Practice\C_ASP.NET_PRACTICE\ecommerFolder\Ecommerce\obj\Debug\net8.0\scopedcss\bundle\Ecommerce.styles.css
-C:\Users\ADMIN\Documents\C#_DotNet_Practice\C_ASP.NET_PRACTICE\ecommerFolder\Ecommerce\obj\Debug\net8.0\Ecommerce.csproj.CopyComplete
 C:\Users\ADMIN\Documents\C#_DotNet_Practice\C_ASP.NET_PRACTICE\ecommerFolder\Ecommerce\obj\Debug\net8.0\Ecommerce.dll
 C:\Users\ADMIN\Documents\C#_DotNet_Practice\C_ASP.NET_PRACTICE\ecommerFolder\Ecommerce\obj\Debug\net8.0\refint\Ecommerce.dll
 C:\Users\ADMIN\Documents\C#_DotNet_Practice\C_ASP.NET_PRACTICE\ecommerFolder\Ecommerce\obj\Debug\net8.0\Ecommerce.pdb
@@ -486,3 +480,12 @@ C:\Users\ADMIN\Documents\C#_DotNet_Practice\C_ASP.NET_PRACTICE\ecommerFolder\Eco
 C:\Users\ADMIN\Documents\C#_DotNet_Practice\C_ASP.NET_PRACTICE\ecommerFolder\Ecommerce\bin\Debug\net8.0\Microsoft.Extensions.Caching.StackExchangeRedis.dll
 C:\Users\ADMIN\Documents\C#_DotNet_Practice\C_ASP.NET_PRACTICE\ecommerFolder\Ecommerce\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
 C:\Users\ADMIN\Documents\C#_DotNet_Practice\C_ASP.NET_PRACTICE\ecommerFolder\Ecommerce\bin\Debug\net8.0\StackExchange.Redis.dll
+C:\Users\ADMIN\Documents\C#_DotNet_Practice\C_ASP.NET_PRACTICE\ecommerFolder\Ecommerce\bin\Debug\net8.0\Ecommerce.staticwebassets.endpoints.json
+C:\Users\ADMIN\Documents\C#_DotNet_Practice\C_ASP.NET_PRACTICE\ecommerFolder\Ecommerce\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\ADMIN\Documents\C#_DotNet_Practice\C_ASP.NET_PRACTICE\ecommerFolder\Ecommerce\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\ADMIN\Documents\C#_DotNet_Practice\C_ASP.NET_PRACTICE\ecommerFolder\Ecommerce\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\ADMIN\Documents\C#_DotNet_Practice\C_ASP.NET_PRACTICE\ecommerFolder\Ecommerce\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\ADMIN\Documents\C#_DotNet_Practice\C_ASP.NET_PRACTICE\ecommerFolder\Ecommerce\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\ADMIN\Documents\C#_DotNet_Practice\C_ASP.NET_PRACTICE\ecommerFolder\Ecommerce\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\ADMIN\Documents\C#_DotNet_Practice\C_ASP.NET_PRACTICE\ecommerFolder\Ecommerce\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\ADMIN\Documents\C#_DotNet_Practice\C_ASP.NET_PRACTICE\ecommerFolder\Ecommerce\obj\Debug\net8.0\Ecommerce.csproj.Up2Date

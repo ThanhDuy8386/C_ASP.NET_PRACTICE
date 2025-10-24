@@ -29,7 +29,8 @@ namespace Ecommerce.Controllers
             return Ok(products);
         }
 
-        [HttpPost("CreateProduct"), Authorize(Roles = "Admin")]
+        //[HttpPost("CreateProduct"), Authorize(Roles = "Admin")]
+        [HttpPost("CreateProduct")]
         public IActionResult Create(CreateProductRequest request) { 
             _productService.CreateProduct(request);
             return Ok();

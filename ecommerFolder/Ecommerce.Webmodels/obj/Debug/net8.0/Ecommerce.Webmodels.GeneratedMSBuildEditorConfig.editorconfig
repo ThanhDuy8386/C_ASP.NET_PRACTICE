@@ -11,3 +11,5 @@ build_property.RootNamespace = Ecommerce.Webmodels
 build_property.ProjectDir = C:\Users\ADMIN\Documents\C#_DotNet_Practice\C_ASP.NET_PRACTICE\ecommerFolder\Ecommerce.Webmodels\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
